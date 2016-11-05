@@ -1,4 +1,4 @@
-# Rails Dynamic Request Lab
+-# Rails Dynamic Request Lab
 
 
 ## Objectives
