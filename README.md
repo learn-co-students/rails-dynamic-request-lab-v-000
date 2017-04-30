@@ -1,6 +1,6 @@
 # Rails Dynamic Request Lab
 
-
+small change
 ## Objectives
 
 * Draw a route with a dynamic variable
