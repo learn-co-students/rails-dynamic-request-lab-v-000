@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  resources :students, only: :index
+  # https://guides.rubyonrails.org/routing.html#restricting-the-routes-created
+  resources :students, only: [:index, :show]
 end
