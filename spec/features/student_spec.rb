@@ -38,4 +38,4 @@ describe 'Show page' do
     visit "students/#{@student.id}"
     expect(page).to have_css("h1", text: "Targaryen")
   end
-end
+end 
